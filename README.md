@@ -1,0 +1,1 @@
+# automatic-apps-instalation-script-arch-linux
